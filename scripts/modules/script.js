@@ -53,6 +53,7 @@ $(document).ready(function() {
             thirdoptions += '<option value="Demo given">Demo given</option>';
             thirdoptions += '<option value="Tech explanation">Tech explanation</option>';
             thirdoptions += '<option value="Follow-up requested">Follow-up requested</option>';
+            thirdoptions += '<option value="Conversion">Conversion</option>';
         }
         if(selection == 2) {
             options = '<option value="Lead follow-up">Lead follow-up</option>';
